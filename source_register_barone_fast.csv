@@ -1,0 +1,5 @@
+source,what_it_supplies,url,notes
+Census ACS 2024 5-year API,ACS detailed table B03002 by 119th congressional districts,https://api.census.gov/data/2024/acs/acs5,"Use get=NAME,B03002_001E,B03002_004E,B03002_005E,B03002_006E,B03002_007E,B03002_012E&for=congressional%20district:*&in=state:*"
+Census developer documentation,Confirms ACS 5-year detailed tables include congressional districts and population counts,https://api.census.gov/data/2024/acs/acs5.html,"Use for methods/source note"
+CRS R48535,Counts and categories for 119th Congress membership,https://www.congress.gov/crs-product/R48535,"Use for fast category counts and caveats about overlapping groups"
+Pew Research Center 2025-01-21,Independent discussion of racial/ethnic diversity and multiracial House members,https://www.pewresearch.org/short-reads/2025/01/21/119th-congress-brings-new-growth-in-racial-ethnic-diversity-to-capitol-hill/,"Use for multiracial member treatment and validation"

@@ -1,0 +1,8 @@
+state_fips,district,member,rep_categories,source_note
+27,04,Betty McCollum,other,"Not in CRS/Pew named categories; defaulted to other in fast coding"
+27,05,Ilhan Omar,black,"Fast CRS/Pew-style coding; replace with sourced member-category row"
+12,10,Maxwell Frost,black;hispanic,"Pew reports Frost identifies as Black and Hispanic; fast coding example"
+36,15,Ritchie Torres,black;hispanic,"Pew reports Torres identifies as Black and Hispanic; fast coding example"
+36,13,Adriano Espaillat,black;hispanic,"Pew reports Espaillat identifies as Black and Hispanic; fast coding example"
+51,03,Bobby Scott,black;api,"Pew reports Scott identifies as Black and Asian; fast coding example"
+53,10,Marilyn Strickland,black;api,"Pew reports Strickland identifies as Black and Asian; fast coding example"
